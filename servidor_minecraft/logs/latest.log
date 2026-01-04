@@ -1,0 +1,30 @@
+[00:13:50] [Server thread/WARN]: Dxnz3l moved too quickly! 16.92713577345782,-3.443852775790532,6.625922427354908
+[00:22:11] [Server thread/WARN]: Dxnz3l moved wrongly!
+[00:41:27] [Server thread/INFO]: Villager class_1646['Cleric'/20402, l='ServerLevel[world]', x=79.39, y=67.38, z=-882.46] died, message: 'Cleric was slain by Dxnz3l using [desforestador]'
+[00:42:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=76, y=67, z=-883} class_2338{x=7, y=70, z=-872}
+[00:50:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=71, z=-873} class_2338{x=8, y=69, z=-872}
+[00:55:56] [Server thread/INFO]: Villager class_1646['Villager'/20400, l='ServerLevel[world]', x=6.82, y=73.00, z=-871.70] died, message: 'Villager suffocated in a wall'
+[00:56:01] [Server thread/INFO]: Villager class_1646['Cleric'/20403, l='ServerLevel[world]', x=6.26, y=73.31, z=-871.72] died, message: 'Cleric was slain by Dxnz3l using [desforestador]'
+[01:01:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=74, z=-873} class_2338{x=7, y=73, z=-872}
+[01:01:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=44, y=66, z=-876} class_2338{x=44, y=66, z=-875}
+[01:01:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=44, y=66, z=-876} class_2338{x=44, y=66, z=-875}
+[01:02:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=108, y=67, z=-883} class_2338{x=107, y=66, z=-883}
+[01:15:29] [Server thread/INFO]: Dxnz3l lost connection: Disconnected
+[01:15:29] [Server thread/INFO]: Dxnz3l left the game
+[01:16:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:23:47] [Server thread/INFO]: Dxnz3l[/127.24.89.254:44233] logged in with entity id 37558 at (18.086849116897643, 64.875, -927.3958423852331)
+[01:23:47] [Server thread/INFO]: Dxnz3l joined the game
+[01:50:42] [Server thread/INFO]: Dxnz3l lost connection: Disconnected
+[01:50:42] [Server thread/INFO]: Dxnz3l left the game
+[01:51:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:14:20] [Server thread/INFO]: Stopping the server
+[03:14:20] [Server thread/INFO]: Stopping server
+[03:14:20] [Server thread/INFO]: Saving players
+[03:14:20] [Server thread/INFO]: Saving worlds
+[03:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
